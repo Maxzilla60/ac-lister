@@ -19,7 +19,7 @@
 	"license": "GNU General Public License v3.0",
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^5.15.3",
-		"ajv": "^8.6.0",
+		"ajv": "^8.6.1",
 		"bowser": "^2.11.0",
 		"canvas-confetti": "^1.4.0",
 		"canvas-to-blob": "^1.0.0",
