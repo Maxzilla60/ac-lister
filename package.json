@@ -32,7 +32,7 @@
 	"devDependencies": {
 		"@types/canvas-confetti": "^1.4.1",
 		"@types/file-saver": "^2.0.2",
-		"@types/hammerjs": "^2.0.39",
+		"@types/hammerjs": "^2.0.40",
 		"@types/html2canvas": "^0.0.36",
 		"@types/nanoid": "^3.0.0",
 		"@types/node": "^16.0.0",
