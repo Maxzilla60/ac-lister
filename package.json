@@ -30,7 +30,7 @@
 		"rxjs": "^7.1.0"
 	},
 	"devDependencies": {
-		"@types/canvas-confetti": "^1.4.1",
+		"@types/canvas-confetti": "^1.4.2",
 		"@types/file-saver": "^2.0.2",
 		"@types/hammerjs": "^2.0.39",
 		"@types/html2canvas": "^0.0.36",
